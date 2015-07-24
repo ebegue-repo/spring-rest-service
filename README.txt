@@ -1,3 +1,5 @@
+Steps to run the web service:
+
 1) Use Maven to create the jar: mvn clean package (or install if you want to install this in your maven repository).
 
 2) Run the following command to run the web service in the port 9000 (I've got Wildfly running on the 8080 port):
